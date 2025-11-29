@@ -3,3 +3,6 @@ tensorflow-cpu
 numpy
 pillow
 pandas
+fastapi
+uvicorn
+python-multipart
